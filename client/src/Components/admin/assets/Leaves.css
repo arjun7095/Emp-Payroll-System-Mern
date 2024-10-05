@@ -1,0 +1,8 @@
+.leaves{
+    background-color: rgb(25, 25, 40);
+    color:white;
+    height:100vh;
+}
+.leaves button{
+    margin-left: 0;
+}

@@ -1,0 +1,13 @@
+.leave{
+    background-color: rgb(25, 25, 40);
+    color: white;
+    height: 100vh;
+
+}
+.leave label{
+    font-size: 20px;
+
+}
+.leave button{
+    margin-left: 0;
+}

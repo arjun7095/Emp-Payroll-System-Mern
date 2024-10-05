@@ -1,0 +1,11 @@
+.attend{
+    background-color: rgb(25, 25, 40);
+    color: white;
+    height: 100vh;
+}
+.attend label{
+    font-size: 20px;
+}
+.attend button{
+    margin-left: 0;
+}

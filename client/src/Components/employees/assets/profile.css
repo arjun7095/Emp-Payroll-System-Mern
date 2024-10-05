@@ -1,0 +1,8 @@
+.profile{
+    background-color: rgb(25, 25, 40);
+    color: white;
+    height: 100vh;
+}
+.profile button{
+    margin-left: 0;
+}

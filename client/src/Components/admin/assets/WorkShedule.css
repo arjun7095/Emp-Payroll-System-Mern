@@ -1,0 +1,17 @@
+.work{
+    background-color: rgb(25, 25, 40);
+    height: 100vh;
+    color: white;
+}
+.work label{
+    font-size: 20px;
+}
+.work-field{
+    width: 400px;
+}
+.work-field button{
+    margin-left: 0;
+}
+.work button{
+    margin-left: 0;
+}
